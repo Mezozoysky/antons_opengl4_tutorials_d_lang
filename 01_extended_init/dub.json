@@ -1,0 +1,11 @@
+{
+	"name": "01_extended_init",
+	"targetType": "executable",
+	"description": "Anton's OpenGL 4 Tutorials port to D language. Tutorial 01: Extended init.",
+	"copyright": "Copyright © 2015, Stanislav Demyanovich",
+	"authors": [ "Dr Anton Gerdelan", "Stanislav Demyanovich" ],
+	"dependencies": {
+		"derelict-gl3": ">=1.0.11",
+		"derelict-glfw3": ">=1.1.0"
+	}
+}
