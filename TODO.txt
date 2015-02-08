@@ -1,0 +1,1 @@
+glfwSetWindowTitle (tutorial 01) doesn't work at least on Mac Os X - is it issue with Derelict and/or GL context ?
